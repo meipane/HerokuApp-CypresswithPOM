@@ -1,0 +1,22 @@
+{
+  "name": "herokuapp---cy-pom",
+  "version": "1.0.0",
+  "description": "Automation herokuapp dengan POM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meipane/HerokuApp-CypresswithPOM.git"
+  },
+  "author": "Mei Pane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meipane/HerokuApp-CypresswithPOM/issues"
+  },
+  "homepage": "https://github.com/meipane/HerokuApp-CypresswithPOM#readme",
+  "devDependencies": {
+    "cypress": "^14.5.4"
+  }
+}

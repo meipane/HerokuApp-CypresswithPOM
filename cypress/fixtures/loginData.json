@@ -1,0 +1,30 @@
+{
+  "TC01": {
+    "username": "John Doe",
+    "password": "ThisIsNotAPassword"
+  },
+  "TC02": {
+    "username": "John Doe",
+    "password": "ThisIsNotAPassword"
+  },
+  "TC03": {
+    "username": "John",
+    "password": "ThisIsNotAPassword"
+  },
+  "TC04": {
+    "username": "John Doe",
+    "password": "ThisIsNot"
+  },
+  "TC05": {
+    "username": "",
+    "password": "ThisIsNotAPassword"
+  },
+  "TC06": {
+    "username": "John Doe",
+    "password": ""
+  },
+  "TC07": {
+    "username": "",
+    "password": ""
+  }
+}

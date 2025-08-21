@@ -1,0 +1,23 @@
+{
+  "TC01": {
+    "facility": "Hongkong CURA Healthcare Center",
+    "readmission": true,
+    "program": "Medicare",
+    "date": "21/07/2025",
+    "comment": "Check-up rutin"
+  },
+  "TC02": {
+    "facility": "Hongkong CURA Healthcare Center",
+    "readmission": true,
+    "program": "Medicare",
+    "date": "21/07/2025",
+    "comment": ""
+  },
+  "TC03": {
+    "facility": "Hongkong CURA Healthcare Center",
+    "readmission": true,
+    "program": "Medicare",
+    "date": "",
+    "comment": "Check-up rutin"
+  }
+}
