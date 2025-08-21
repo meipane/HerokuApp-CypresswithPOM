@@ -1,14 +1,15 @@
-name: Cypress HerokuApp Tests
+name: Cypress Tests
 
 on:
   push:
-    branches: 
-    - main
+    branches:
+      - main
   pull_request:
 
 jobs:
   cypress-run:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -22,4 +23,4 @@ jobs:
         run: npm install
 
       - name: Run Cypress tests
-        run: npx cypress run
+        run: npx cypress run --browser chrome --headless
